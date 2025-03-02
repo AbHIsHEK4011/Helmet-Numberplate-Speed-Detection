@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
 ### **Installation Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/helmet-numberplate-speed-detection.git
+   git clone https://github.com/AbHIsHEK4011/Helmet-Numberplate-Speed-Detection.git
    cd helmet-numberplate-speed-detection
    ```
 2. Install dependencies:
